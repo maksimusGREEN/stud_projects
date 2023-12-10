@@ -1,4 +1,2 @@
-# EDA_projects
-My examples in Exploratory data analysis.
-
-There I will post my tries in EDA using Python
+# stud_projects
+There I will posting some of my decisions from different training courses
